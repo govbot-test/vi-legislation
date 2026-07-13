@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "To Senate",
+    "occurred_at": "2025-07-23",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "36",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billtracking.legvi.org/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "36-0142"
+}

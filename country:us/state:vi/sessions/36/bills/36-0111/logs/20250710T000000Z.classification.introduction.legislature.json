@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced",
+    "occurred_at": "2025-07-10",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "36",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://billtracking.legvi.org/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "36-0111"
+}
